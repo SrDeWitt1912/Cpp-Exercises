@@ -13,4 +13,6 @@ int main() {
 	conca = input1 + input2;
 
 	cout << conca << endl;
+	
+	return 0; 
 }
